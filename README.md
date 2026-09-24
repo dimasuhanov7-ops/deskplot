@@ -1,7 +1,12 @@
 <p align="center"><img src="images/icon.png" width="96" alt="Deskplot"></p>
 <h1 align="center">Deskplot</h1>
 <p align="center">A desktop organizer for Windows 10 / 11 · Органайзер рабочего стола для Windows 10 / 11</p>
-<p align="center"><a href="../../releases/latest"><b>⬇ Download the latest version · Скачать последнюю версию</b></a></p>
+<p align="center">
+  <a href="https://github.com/dimasuhanov7-ops/deskplot/releases/latest"><img src="https://img.shields.io/github/v/release/dimasuhanov7-ops/deskplot?label=version" alt="Latest release"></a>
+  <a href="https://github.com/dimasuhanov7-ops/deskplot/releases"><img src="https://img.shields.io/github/downloads/dimasuhanov7-ops/deskplot/total" alt="Downloads"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-proprietary-lightgrey" alt="License"></a>
+</p>
+<p align="center"><a href="https://github.com/dimasuhanov7-ops/deskplot/releases/latest"><b>⬇ Download the latest version · Скачать последнюю версию</b></a></p>
 
 ![Fences](images/fences-en.png)
 
@@ -15,8 +20,14 @@ Deskplot keeps your desktop tidy with **fences** — translucent containers, eac
 - **Quick launch** menu (Ctrl+Alt+Space), search across fences, global shortcuts, export / import of settings.
 - **Automatic updates**, English and Russian interface, a short tour on first launch.
 
-**Install:** download `Deskplot-Setup-<version>.exe` from [Releases](../../releases/latest) and run it — no admin rights and no .NET needed.
+**Install:** download `Deskplot-Setup-<version>.exe` from [Releases](https://github.com/dimasuhanov7-ops/deskplot/releases/latest) and run it — no admin rights and no .NET needed.
 Windows may say *“Windows protected your PC”* because the installer isn't code-signed yet: click **More info → Run anyway**.
+
+**Verify the download (recommended):** each release page lists the installer's SHA-256 checksum. Before running the installer, you can check it matches:
+```powershell
+Get-FileHash Deskplot-Setup-<version>.exe -Algorithm SHA256
+```
+Compare the result with the checksum shown on the [release page](https://github.com/dimasuhanov7-ops/deskplot/releases/latest).
 
 ![Settings](images/settings-en.png)
 
@@ -30,8 +41,14 @@ Deskplot наводит порядок на рабочем столе с пом�
 - **Быстрый запуск** (Ctrl+Alt+Space), поиск по заборам, глобальные сочетания клавиш, экспорт и импорт настроек.
 - **Автообновление**, интерфейс на русском и английском, короткое обучение при первом запуске.
 
-**Установка:** скачайте `Deskplot-Setup-<версия>.exe` в разделе [Releases](../../releases/latest) и запустите — права администратора и .NET не нужны.
+**Установка:** скачайте `Deskplot-Setup-<версия>.exe` в разделе [Releases](https://github.com/dimasuhanov7-ops/deskplot/releases/latest) и запустите — права администратора и .NET не нужны.
 Windows может показать *«Windows защитила ваш компьютер»* — установщик пока не подписан: **Подробнее → Выполнить в любом случае**.
+
+**Проверка контрольной суммы (рекомендуется):** на странице каждого релиза указана SHA-256 сумма установщика. Перед запуском можно свериться:
+```powershell
+Get-FileHash Deskplot-Setup-<версия>.exe -Algorithm SHA256
+```
+Сравните результат с суммой на [странице релиза](https://github.com/dimasuhanov7-ops/deskplot/releases/latest).
 
 ![Заборы](images/fences-ru.png)
 ![Раскладка](images/sorting-ru.png)
@@ -39,3 +56,5 @@ Windows может показать *«Windows защитила ваш комп�
 ---
 
 This repository hosts releases only · В этом репозитории только выпуски программы.
+
+[Changelog](CHANGELOG.md) · [License](LICENSE)

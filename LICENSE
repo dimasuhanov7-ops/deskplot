@@ -1,0 +1,45 @@
+Deskplot — Proprietary License / Проприетарная лицензия
+Copyright (c) 2026 dimasuhanov7-ops. All Rights Reserved.
+
+English
+-------
+This repository publishes only the release notes, screenshots and the
+compiled Windows installer for Deskplot. The application's source code is
+not published here or anywhere else.
+
+You are granted a free, non-exclusive license to download, install and use
+Deskplot, for personal or commercial purposes, as distributed through this
+repository's Releases.
+
+Without prior written permission from the copyright holder, you may not:
+- redistribute the installer, or any part of it, through another channel;
+- modify, reverse engineer, decompile or disassemble the software;
+- remove or alter any copyright, trademark or attribution notice.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF
+OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN IT.
+
+Русский
+-------
+Этот репозиторий публикует только описание релизов, скриншоты и собранный
+установщик Deskplot для Windows. Исходный код приложения здесь и где-либо
+ещё не публикуется.
+
+Вам предоставляется бесплатная неисключительная лицензия на скачивание,
+установку и использование Deskplot в личных и коммерческих целях — в том
+виде, в каком он распространяется через раздел Releases этого репозитория.
+
+Без предварительного письменного разрешения правообладателя запрещается:
+- распространять установщик или любую его часть через другие каналы;
+- модифицировать, реверс-инжинирить, декомпилировать или дизассемблировать программу;
+- удалять или изменять уведомления об авторских правах и товарных знаках.
+
+ПРОГРАММА ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ», БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ, ЯВНЫХ ИЛИ
+ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ ГАРАНТИЯМИ ТОВАРНОЙ ПРИГОДНОСТИ
+И СООТВЕТСТВИЯ ОПРЕДЕЛЁННОЙ ЦЕЛИ. ПРАВООБЛАДАТЕЛЬ НИ ПРИ КАКИХ
+ОБСТОЯТЕЛЬСТВАХ НЕ НЕСЁТ ОТВЕТСТВЕННОСТИ ПО ЛЮБЫМ ПРЕТЕНЗИЯМ, УБЫТКАМ ИЛИ
+ИНОЙ ОТВЕТСТВЕННОСТИ, ВОЗНИКШИМ В СВЯЗИ С ПРОГРАММОЙ ИЛИ ЕЁ ИСПОЛЬЗОВАНИЕМ.
