@@ -11,8 +11,13 @@ You are granted a free, non-exclusive license to download, install and use
 Deskplot, for personal or commercial purposes, as distributed through this
 repository's Releases.
 
+You may pass the installer on to other people — friends, colleagues, your own
+computers — as long as it is the unmodified file published in Releases.
+
 Without prior written permission from the copyright holder, you may not:
-- redistribute the installer, or any part of it, through another channel;
+- sell the software, or charge for access to it;
+- publish it as your own work, or under a different name;
+- bundle it with other software, advertising or installers;
 - modify, reverse engineer, decompile or disassemble the software;
 - remove or alter any copyright, trademark or attribution notice.
 
@@ -33,8 +38,13 @@ OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN IT.
 установку и использование Deskplot в личных и коммерческих целях — в том
 виде, в каком он распространяется через раздел Releases этого репозитория.
 
+Вы можете передавать установщик другим людям — друзьям, коллегам, на свои
+компьютеры — при условии, что это неизменённый файл из раздела Releases.
+
 Без предварительного письменного разрешения правообладателя запрещается:
-- распространять установщик или любую его часть через другие каналы;
+- продавать программу или брать плату за доступ к ней;
+- выдавать её за свою работу или публиковать под другим названием;
+- распространять её в комплекте с другими программами, рекламой или установщиками;
 - модифицировать, реверс-инжинирить, декомпилировать или дизассемблировать программу;
 - удалять или изменять уведомления об авторских правах и товарных знаках.
 
@@ -43,3 +53,14 @@ OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN IT.
 И СООТВЕТСТВИЯ ОПРЕДЕЛЁННОЙ ЦЕЛИ. ПРАВООБЛАДАТЕЛЬ НИ ПРИ КАКИХ
 ОБСТОЯТЕЛЬСТВАХ НЕ НЕСЁТ ОТВЕТСТВЕННОСТИ ПО ЛЮБЫМ ПРЕТЕНЗИЯМ, УБЫТКАМ ИЛИ
 ИНОЙ ОТВЕТСТВЕННОСТИ, ВОЗНИКШИМ В СВЯЗИ С ПРОГРАММОЙ ИЛИ ЕЁ ИСПОЛЬЗОВАНИЕМ.
+
+Third-party components / Компоненты сторонних разработчиков
+-----------------------------------------------------------
+The installer includes the Microsoft .NET runtime, (c) Microsoft Corporation,
+distributed under the MIT License (https://github.com/dotnet/runtime/blob/main/LICENSE.TXT).
+The installer itself is built with Inno Setup, (c) Jordan Russell
+(https://jrsoftware.org/files/is/license.txt). Their terms apply to those parts.
+
+Установщик включает среду выполнения Microsoft .NET, (c) Microsoft Corporation,
+распространяемую по лицензии MIT, и собран программой Inno Setup, (c) Jordan Russell.
+К этим компонентам применяются их собственные лицензии.

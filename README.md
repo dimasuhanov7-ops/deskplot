@@ -18,6 +18,7 @@ Deskplot keeps your desktop tidy with **fences** — translucent containers, eac
 - **Programs by category**: shortcuts are split into games, launchers, editors, development, browsers, chat, office and utilities.
 - **7 themes**, docking to a screen edge, expand on hover, thumbnails for pictures and videos.
 - **Quick launch** menu (Ctrl+Alt+Space), search across fences, global shortcuts, export / import of settings.
+- **Move everything back to the desktop**: one button returns the contents of all fences, with a preview and undo. Uninstalling does it automatically, so nothing is left behind in fence folders.
 - **Automatic updates**, English and Russian interface, a short tour on first launch.
 
 **Install:** download `Deskplot-Setup-<version>.exe` from [Releases](https://github.com/dimasuhanov7-ops/deskplot/releases/latest) and run it — no admin rights and no .NET needed.
@@ -38,6 +39,7 @@ Deskplot наводит порядок на рабочем столе с пом�
 - **Программы по категориям**: ярлыки делятся на игры, лаунчеры, редакторы, разработку, браузеры, общение, офис и утилиты.
 - **7 тем**, прижатие к краю экрана, разворот при наведении, превью картинок и видео.
 - **Быстрый запуск** (Ctrl+Alt+Space), поиск по заборам, глобальные сочетания клавиш, экспорт и импорт настроек.
+- **«Вернуть всё на рабочий стол»**: одна кнопка возвращает содержимое всех заборов, с предпросмотром и отменой. При удалении программы это происходит автоматически, файлы не остаются забытыми в папках заборов.
 - **Автообновление**, интерфейс на русском и английском, короткое обучение при первом запуске.
 
 **Установка:** скачайте `Deskplot-Setup-<версия>.exe` в разделе [Releases](https://github.com/dimasuhanov7-ops/deskplot/releases/latest) и запустите — права администратора и .NET не нужны.
