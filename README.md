@@ -23,11 +23,10 @@ Deskplot keeps your desktop tidy with **fences** — translucent containers, eac
 **Install:** download `Deskplot-Setup-<version>.exe` from [Releases](https://github.com/dimasuhanov7-ops/deskplot/releases/latest) and run it — no admin rights and no .NET needed.
 Windows may say *“Windows protected your PC”* because the installer isn't code-signed yet: click **More info → Run anyway**.
 
-**Verify the download (recommended):** each release page lists the installer's SHA-256 checksum. Before running the installer, you can check it matches:
+**Verify the download (recommended):** [CHECKSUMS.md](CHECKSUMS.md) lists the installer's SHA-256 for every release. Before running the installer, you can check it matches:
 ```powershell
 Get-FileHash Deskplot-Setup-<version>.exe -Algorithm SHA256
 ```
-Compare the result with the checksum shown on the [release page](https://github.com/dimasuhanov7-ops/deskplot/releases/latest).
 
 ![Settings](images/settings-en.png)
 
@@ -44,11 +43,10 @@ Deskplot наводит порядок на рабочем столе с пом�
 **Установка:** скачайте `Deskplot-Setup-<версия>.exe` в разделе [Releases](https://github.com/dimasuhanov7-ops/deskplot/releases/latest) и запустите — права администратора и .NET не нужны.
 Windows может показать *«Windows защитила ваш компьютер»* — установщик пока не подписан: **Подробнее → Выполнить в любом случае**.
 
-**Проверка контрольной суммы (рекомендуется):** на странице каждого релиза указана SHA-256 сумма установщика. Перед запуском можно свериться:
+**Проверка контрольной суммы (рекомендуется):** в [CHECKSUMS.md](CHECKSUMS.md) указана SHA-256 сумма установщика для каждой версии. Перед запуском можно свериться:
 ```powershell
 Get-FileHash Deskplot-Setup-<версия>.exe -Algorithm SHA256
 ```
-Сравните результат с суммой на [странице релиза](https://github.com/dimasuhanov7-ops/deskplot/releases/latest).
 
 ![Заборы](images/fences-ru.png)
 ![Раскладка](images/sorting-ru.png)
@@ -57,4 +55,4 @@ Get-FileHash Deskplot-Setup-<версия>.exe -Algorithm SHA256
 
 This repository hosts releases only · В этом репозитории только выпуски программы.
 
-[Changelog](CHANGELOG.md) · [License](LICENSE)
+[Changelog](CHANGELOG.md) · [Checksums](CHECKSUMS.md) · [License](LICENSE)
